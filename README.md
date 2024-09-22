@@ -1,3 +1,2 @@
-# Undergraduate Student 
-Applied Mathematics, Duke Kunshan University
-
+# Undergraduate Student at Duke Kunshan University
+### Applied Mathematics

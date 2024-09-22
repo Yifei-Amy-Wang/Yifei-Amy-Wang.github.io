@@ -1,1 +1,3 @@
-# Yifei-Amy-Wang.github.io
+# Undergraduate Student 
+Applied Mathematics, Duke Kunshan University
+
